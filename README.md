@@ -28,15 +28,15 @@ Proyek ini dikembangkan menggunakan Laravel REST API sebagai backend, MySQL seba
 
 ## Pembagian Tugas Anggota Kelompok
 
-### 1. Nathania Dewinta Maharani
-**Wireframe, Backend, Integrasi Database, Website Admin, dan GitHub**
+### 1. Naila Zazkia Rizqina
+**Frontend Mobile, Pemantauan BMI, dan Artikel Kesehatan**
 
-- Merancang wireframe sebagai dasar pengembangan aplikasi.
-- Mengembangkan Laravel REST API, meliputi autentikasi, endpoint, validasi, dan logika CRUD.
-- Melakukan integrasi database MySQL dengan backend Laravel.
-- Berkolaborasi dalam pengembangan Website Admin.
-- Melakukan konfigurasi Docker dan integrasi sistem.
-- Mengelola repository GitHub serta koordinasi pengembangan backend.
+- Mengembangkan antarmuka aplikasi mobile menggunakan Flutter.
+- Mengimplementasikan riwayat pemeriksaan dan grafik perkembangan BMI.
+- Mengembangkan fitur target BMI dan ProgressBMIku.
+- Mengimplementasikan pengaturan pengingat pemeriksaan.
+- Mengelola konten dan aset Artikel Kesehatan pada aplikasi mobile.
+- Berkolaborasi dalam integrasi fitur pemantauan dan notifikasi.
 
 ### 2. Ferisca Aprilia Putri
 **UI/UX Design, Backend, Perancangan Database MySQL, dan Website Admin**
@@ -48,7 +48,17 @@ Proyek ini dikembangkan menggunakan Laravel REST API sebagai backend, MySQL seba
 - Mengembangkan Dashboard Admin, Daftar Pengguna, dan Riwayat Pemeriksaan BMI.
 - Melakukan pengujian fungsional Website Admin serta berkoordinasi dalam pengembangan backend.
 
-### 3. Vania Aisha Nova Permatasari
+### 3. Nathania Dewinta Maharani
+**Wireframe, Backend, Integrasi Database, Website Admin, dan GitHub**
+
+- Merancang wireframe sebagai dasar pengembangan aplikasi.
+- Mengembangkan Laravel REST API, meliputi autentikasi, endpoint, validasi, dan logika CRUD.
+- Melakukan integrasi database MySQL dengan backend Laravel.
+- Berkolaborasi dalam pengembangan Website Admin.
+- Melakukan konfigurasi Docker dan integrasi sistem.
+- Mengelola repository GitHub serta koordinasi pengembangan backend.
+
+### 4. Vania Aisha Nova Permatasari
 **Frontend Mobile, Fitur Perhitungan BMI, dan Konten Rekomendasi Gaya Hidup**
 
 - Mengembangkan antarmuka aplikasi mobile menggunakan Flutter.
@@ -58,15 +68,6 @@ Proyek ini dikembangkan menggunakan Laravel REST API sebagai backend, MySQL seba
 - Melakukan riset, pengumpulan, dan penyusunan konten Rekomendasi Gaya Hidup sesuai kategori BMI pengguna.
 - Berkolaborasi dalam integrasi frontend dengan backend.
 
-### 4. Naila Zazkia Rizqina
-**Frontend Mobile, Pemantauan BMI, dan Artikel Kesehatan**
-
-- Mengembangkan antarmuka aplikasi mobile menggunakan Flutter.
-- Mengimplementasikan riwayat pemeriksaan dan grafik perkembangan BMI.
-- Mengembangkan fitur target BMI dan ProgressBMIku.
-- Mengimplementasikan pengaturan pengingat pemeriksaan.
-- Mengelola konten dan aset Artikel Kesehatan pada aplikasi mobile.
-- Berkolaborasi dalam integrasi fitur pemantauan dan notifikasi.
 
 ## Kolaborasi Pengembangan
 
